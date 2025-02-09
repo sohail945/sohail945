@@ -72,11 +72,19 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+## 🚀 AI in Action  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail945&show_icons=true&locale=en&layout=compact" alt="sohail945" />
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="500" alt="AI Learning">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohail945&show_icons=true&locale=en" alt="sohail945" />
-</p>
+### 🔍 My AI Journey  
+🔹 **Exploring LLMs & RAG** for knowledge-augmented AI  
+🔹 **Building Chatbots & AI-powered applications**  
+🔹 **Working with Transformers, CNNs, and NLP models**  
+🔹 **Optimizing AI for real-world impact & efficiency**  
+
+💡 *"AI is not just a tool, it's a revolution—shaping the future one model at a time!"*  
+
+---
+
+
