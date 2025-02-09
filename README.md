@@ -70,21 +70,28 @@
   </a>
 </p>
 
----
+<h3 align="left">🚀 My Coding Universe</h3>
 
-## 🚀 AI in Action  
 <p align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="500" alt="AI Learning">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohail945&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-### 🔍 My AI Journey  
-🔹 **Exploring LLMs & RAG** for knowledge-augmented AI  
-🔹 **Building Chatbots & AI-powered applications**  
-🔹 **Working with Transformers, CNNs, and NLP models**  
-🔹 **Optimizing AI for real-world impact & efficiency**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail945&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
+</p>
 
-💡 *"AI is not just a tool, it's a revolution—shaping the future one model at a time!"*  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohail945&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
+</p>
 
----
+<p align="center">
+  <i>🌟 Building the future, one line of code at a time.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sohail945?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Work-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Work" />
+  </a>
+</p>
 
 
