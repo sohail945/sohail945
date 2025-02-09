@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M_Sohail</h1>
+<h1 align="center">Hi 👋, I'm Sohail</h1>
 <h3 align="center">Machine Learning Engineer | AI Enthusiast | Exploring LLMs, RAG, and Chatbots</h3>
 
 <img align="right" alt="AI" width="400" src="0_jv7K_jnnnOeBf9oZ (1).bin">
