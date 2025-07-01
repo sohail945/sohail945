@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohail</h1>
 <h3 align="center">Machine Learning Engineer | LLMs, RAGs & AI Chatbots | Computer Vision | Deep Learning & NLP | Python, SQL | FinTech | AWS</h3>
 
-<img align="right" alt="AI" width="420" height="270" src="0_jv7K_jnnnOeBf9oZ (1).bin">
+<img align="right" alt="AI" width="420" height="240" src="0_jv7K_jnnnOeBf9oZ (1).bin">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sohail945&label=Profile%20views&color=0e75b6&style=flat" alt="sohail945" />
