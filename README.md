@@ -16,64 +16,75 @@
 - 📫 Contact: **msohailawan945@gmail.com**
 
 ---
-
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/msohail8" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msohail8" height="30" width="40" />
+  <a href="https://linkedin.com/in/msohail8" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/sohail945" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="sohail945" height="30" width="40" />
+  <a href="https://github.com/sohail945" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tech Stack & Tools:</h3>
+<h3 align="left">🧠 Languages & Databases</h3>
 <p align="left">
-  <b>Languages:</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40"/> &nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" title="Excel" width="40"/> &nbsp;
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" title="SQL" width="40"/>
 </p>
 
-<p>
-  <b>AI & ML Libraries:</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
+---
+
+<h3 align="left">🧠 Machine Learning & Deep Learning</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" title="Scikit-learn" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" width="40"/>
 </p>
 
-<p>
-  <b>NLP & GenAI:</b><br/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/105301681?s=280&v=4" width="40" title="LangChain"/>
-  <img src="https://avatars.githubusercontent.com/u/126072908?s=280&v=4" width="40" title="LlamaIndex"/>
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="40"/>
+---
+
+<h3 align="left">🗣️ NLP, GenAI & Chatbots</h3>
+<p align="left">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face" width="40"/> &nbsp;
+  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" title="OpenAI" width="40"/> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/105301681?s=280&v=4" title="LangChain" width="40"/> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/126072908?s=280&v=4" title="LlamaIndex" width="40"/> &nbsp;
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/null/external-voice-artificial-intelligence-flatart-icons-outline-flatarticons.png" title="TTS/STT" width="40"/>
 </p>
 
-<p>
-  <b>Computer Vision:</b><br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-darknet-open-source-neural-network-framework-written-in-c-and-cpp-logo-color-tal-revivo.png" width="40" title="YOLO"/>
+---
+
+<h3 align="left">👁️ Computer Vision</h3>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="OpenCV" width="40"/> &nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-darknet-open-source-neural-network-framework-written-in-c-and-cpp-logo-color-tal-revivo.png" title="YOLO" width="40"/>
 </p>
 
-<p>
-  <b>Deployment / MLOps:</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> 
-  <img src="https://avatars.githubusercontent.com/u/45109972?s=280&v=4" width="40" title="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+---
+
+<h3 align="left">🚀 Cloud & MLOps</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40"/> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/45109972?s=280&v=4" title="Streamlit" width="40"/> &nbsp;
+  <img src="https://img.icons8.com/fluency/48/000000/api.png" title="FastAPI & REST APIs" width="40"/>
 </p>
 
-<p>
-  <b>BI & Visualization:</b><br/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40"/>
-</p>
+---
 
+<h3 align="left">📊 Data Analytics & Visualization</h3>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" title="Seaborn" width="40"/>
+</p>
 ---
 
 <h3 align="center">📈 GitHub Insights</h3>
